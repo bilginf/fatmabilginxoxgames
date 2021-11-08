@@ -1,4 +1,4 @@
-# İki kişilik XOX oyunu #
+# İki kişilik XOX oyunu # 
 Oyun iki kişi tarafından oynanmaktadır, X yani 1.oyuncu, O ise 2.oyuncudur.
 Oyunumuzun temel mantığı, aşağıdan başlamak kaydıyla 1'den 9'a kadar oluşan sayılardan oluşmaktadır.
 1.Oyuncu yapıcağı hamleyi 1 ile 9 arasında bir sayı tuşlayarak oyunu başlatıcaktır.
